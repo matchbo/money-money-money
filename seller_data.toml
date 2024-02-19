@@ -1,0 +1,13 @@
+[seller]
+group_folder = "group1" 
+reputation_rating = 0
+current_balance = 50.0  
+
+[[seller.products]]
+description = "Awesome Customizable Mug"
+cost_price = 5.0 
+markup_percent = 30
+stock_level = 10
+image_path = "dog_mug.jpeg"
+
+# ... (More products as needed) 
